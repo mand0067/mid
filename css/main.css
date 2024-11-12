@@ -1,0 +1,124 @@
+h1,nav{
+    color: #ffffff;
+    background-color: black;
+    padding: 60px;
+    text-align: center;
+}
+h4{
+    color: #d69e3d;
+}xs
+body{
+    background-color: #f3f0e9;
+    color: black;
+    text-align: center;
+}
+h1{
+    font-size: 2.986rem;
+    text-align: center;
+}
+h2{
+  font-size: 2.488rem; 
+  padding: 100px; 
+  text-align: center;
+  color: #ffffff;
+}
+h3{
+    font-size: 1.728rem;
+    text-align: center;
+    padding: 00px;
+}
+h4{
+    text-align: center;
+}
+p{
+     font-size: 1rem;
+   text-align: center;
+}
+img{
+    width: 350px;
+    height: 350px;
+    align-items: center;
+    padding: 100px;
+}
+#photo{
+    width: 700px;
+    height: 700px;
+    align-items: center;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+#shop{
+    background-image: url("../images/hero-background.jpg");
+    background-repeat: no-repeat;
+    background-size: 900px;
+    color: #ffffff;
+    width: 1000px;
+    height: 1000px;
+}
+div{
+    background-image: url("../images/coffee-shop.jpeg");
+    background-repeat: no-repeat;
+    background-size: 900px;
+    color: #ffffff;
+    width: 1000px;
+    height: 1000px;
+}
+body{
+    background-color: black;
+}
+#cup{
+    background-image:url("../images/testimonial-1.jpeg") ;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    width:800px;
+    height: 800px;
+}
+#smile{
+    background-image: url("../images/testimonial-2.jpeg");
+    background-repeat: no-repeat;
+    color: #ffffff;
+    width:800px;
+    height: 800px;
+}
+#icedcapp{
+    background-image: url("../images/testimonial-3.jpeg");
+    background-repeat: no-repeat;
+    color: #ffffff;
+    width:800px;
+    height: 800px;
+}
+
+@media screen and (min-width: 650px){
+    h1{
+      font-size: 2.986rem;
+    }
+    h2{
+        font-size:1.802rem ;
+    }
+    h3{
+        font-size:1.728rem ;
+    }
+    p{
+      font-size:1rem ;  
+    }
+  }
+
+  @media screen and (min-width: 650px){
+    h1{
+      font-size: 3.815rem;
+    }
+    h2{
+        font-size:3.052rem ;
+    }
+    h3{
+        font-size:1.953rem ;
+    }
+    p{
+      font-size:1rem ;  
+    }
+  }
